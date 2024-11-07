@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adithi Roy Chowdhury</h1>
-<h3 align="center">Look opportunities in the field of data science, machine learning and artificial intelligence.</h3>
+<h3 align="center">Looking opportunities in the field of data science, machine learning and artificial intelligence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithi-27&label=Profile%20views&color=0e75b6&style=flat" alt="adithi-27" /> </p>
 
