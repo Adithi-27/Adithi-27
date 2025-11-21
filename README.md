@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA, ML, DL, AI.**
 
-- 📫 How to reach me **adithi@iitb.ac.in.com**
+- 📫 How to reach me **adithi@iitb.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
